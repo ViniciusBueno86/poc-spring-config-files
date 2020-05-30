@@ -1,3 +1,5 @@
+server:
+  port: ${SERVICE_PORT:8080}
 management:
   endpoints:
     web:
