@@ -2,7 +2,7 @@ spring:
   profiles: indev
 
   api:
-    param1: olá, mundo, atualização!
+    param1: olá, mundo, atualização com refresh scope!
 
 ---
 spring:
