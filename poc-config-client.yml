@@ -2,7 +2,7 @@ spring:
   profiles: indev
 
   api:
-    param1: olá
+    param1: olá, mundo!
 
 ---
 spring:
