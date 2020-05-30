@@ -1,0 +1,13 @@
+spring:
+  profiles: indev
+
+  api:
+    param1: olá
+
+---
+spring:
+  profiles: inqa
+
+  api:
+    param1: hello
+
